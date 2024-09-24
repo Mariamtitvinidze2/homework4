@@ -1,0 +1,23 @@
+
+table {
+    width: 600px;
+    height: 300px;
+    background-color: rgb(245, 24, 171);
+}
+
+caption {
+    background-color: rgb(54, 54, 254);
+}
+
+
+
+.box {
+    background-color: red;
+}
+ 
+#h2 {
+    color: red;
+}
+
+
+ 
